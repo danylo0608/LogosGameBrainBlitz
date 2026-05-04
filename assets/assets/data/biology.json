@@ -1,0 +1,226 @@
+{
+    "id": "biology",
+    "name": "Основи біології",
+    "questions": [
+        {
+            "id": "q1",
+            "question": "Яка органела клітини називається її «енергетичною станцією»?",
+            "answers": [
+                {
+                    "text": "Мітохондрія",
+                    "correct": true
+                },
+                {
+                    "text": "Рибосома",
+                    "correct": false
+                },
+                {
+                    "text": "Апарат Гольджі",
+                    "correct": false
+                },
+                {
+                    "text": "Лізосома",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "q2",
+            "question": "Який процес забезпечує рослинам можливість створювати органічні речовини з енергії сонця?",
+            "answers": [
+                {
+                    "text": "Фотосинтез",
+                    "correct": true
+                },
+                {
+                    "text": "Дихання",
+                    "correct": false
+                },
+                {
+                    "text": "Транспірація",
+                    "correct": false
+                },
+                {
+                    "text": "Бродіння",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "q3",
+            "question": "Скільки камер має серце дорослої людини?",
+            "answers": [
+                {
+                    "text": "4",
+                    "correct": true
+                },
+                {
+                    "text": "2",
+                    "correct": false
+                },
+                {
+                    "text": "3",
+                    "correct": false
+                },
+                {
+                    "text": "1",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "q4",
+            "question": "Яка речовина є носієм генетичної інформації в більшості живих організмів?",
+            "answers": [
+                {
+                    "text": "ДНК",
+                    "correct": true
+                },
+                {
+                    "text": "Білок",
+                    "correct": false
+                },
+                {
+                    "text": "АТФ",
+                    "correct": false
+                },
+                {
+                    "text": "Глюкоза",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "q5",
+            "question": "Яка з цих тварин належить до ссавців?",
+            "answers": [
+                {
+                    "text": "Синій кит",
+                    "correct": true
+                },
+                {
+                    "text": "Велика біла акула",
+                    "correct": false
+                },
+                {
+                    "text": "Імператорський пінгвін",
+                    "correct": false
+                },
+                {
+                    "text": "Королівська кобра",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "q6",
+            "question": "Який орган людського тіла є найбільшим?",
+            "answers": [
+                {
+                    "text": "Шкіра",
+                    "correct": true
+                },
+                {
+                    "text": "Печінка",
+                    "correct": false
+                },
+                {
+                    "text": "Легені",
+                    "correct": false
+                },
+                {
+                    "text": "Тонкий кишечник",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "q7",
+            "question": "Як називаються клітини крові, що відповідають за транспортування кисню?",
+            "answers": [
+                {
+                    "text": "Еритроцити",
+                    "correct": true
+                },
+                {
+                    "text": "Лейкоцити",
+                    "correct": false
+                },
+                {
+                    "text": "Тромбоцити",
+                    "correct": false
+                },
+                {
+                    "text": "Лімфоцити",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "q8",
+            "question": "Хто вважається засновником вчення про еволюцію шляхом природного добору?",
+            "answers": [
+                {
+                    "text": "Чарльз Дарвін",
+                    "correct": true
+                },
+                {
+                    "text": "Грегор Мендель",
+                    "correct": false
+                },
+                {
+                    "text": "Луї Пастер",
+                    "correct": false
+                },
+                {
+                    "text": "Іван Павлов",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "q9",
+            "question": "З чого складається клітинна стінка грибів?",
+            "answers": [
+                {
+                    "text": "Хітин",
+                    "correct": true
+                },
+                {
+                    "text": "Целюлоза",
+                    "correct": false
+                },
+                {
+                    "text": "Глікоген",
+                    "correct": false
+                },
+                {
+                    "text": "Крохмаль",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "q10",
+            "question": "Який газ виділяють рослини під час фотосинтезу?",
+            "answers": [
+                {
+                    "text": "Кисень",
+                    "correct": true
+                },
+                {
+                    "text": "Вуглекислий газ",
+                    "correct": false
+                },
+                {
+                    "text": "Азот",
+                    "correct": false
+                },
+                {
+                    "text": "Водень",
+                    "correct": false
+                }
+            ]
+        }
+    ]
+}
