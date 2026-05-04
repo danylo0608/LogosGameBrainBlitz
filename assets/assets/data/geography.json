@@ -1,0 +1,666 @@
+{
+    "id": "geography",
+    "name": "Географія світу",
+    "questions": [
+        {
+            "id": "q1",
+            "question": "Яка найкраща країна світу?",
+            "answers": [
+                {
+                    "text": "Україна",
+                    "correct": true
+                },
+                {
+                    "text": "Канада",
+                    "correct": false
+                },
+                {
+                    "text": "Китай",
+                    "correct": false
+                },
+                {
+                    "text": "США",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "q2",
+            "question": "Яка найдовша річка у світі?",
+            "answers": [
+                {
+                    "text": "Амазонка",
+                    "correct": true
+                },
+                {
+                    "text": "Ніл",
+                    "correct": false
+                },
+                {
+                    "text": "Янцзи",
+                    "correct": false
+                },
+                {
+                    "text": "Міссісіпі",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "q3",
+            "question": "На якому материку знаходиться пустеля Сахара?",
+            "answers": [
+                {
+                    "text": "Африка",
+                    "correct": true
+                },
+                {
+                    "text": "Азія",
+                    "correct": false
+                },
+                {
+                    "text": "Австралія",
+                    "correct": false
+                },
+                {
+                    "text": "Південна Америка",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "q4",
+            "question": "Яка столиця Франції?",
+            "answers": [
+                {
+                    "text": "Париж",
+                    "correct": true
+                },
+                {
+                    "text": "Ліон",
+                    "correct": false
+                },
+                {
+                    "text": "Марсель",
+                    "correct": false
+                },
+                {
+                    "text": "Берлін",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "q5",
+            "question": "Який океан є найбільшим на Землі?",
+            "answers": [
+                {
+                    "text": "Тихий",
+                    "correct": true
+                },
+                {
+                    "text": "Атлантичний",
+                    "correct": false
+                },
+                {
+                    "text": "Індійський",
+                    "correct": false
+                },
+                {
+                    "text": "Північний Льодовитий",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "q6",
+            "question": "Яка найвища гора у світі?",
+            "answers": [
+                {
+                    "text": "Еверест (Джомолунгма)",
+                    "correct": true
+                },
+                {
+                    "text": "К2",
+                    "correct": false
+                },
+                {
+                    "text": "Кіліманджаро",
+                    "correct": false
+                },
+                {
+                    "text": "Монблан",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "q7",
+            "question": "В якій країні знаходиться піраміда Хеопса?",
+            "answers": [
+                {
+                    "text": "Єгипет",
+                    "correct": true
+                },
+                {
+                    "text": "Мексика",
+                    "correct": false
+                },
+                {
+                    "text": "Греція",
+                    "correct": false
+                },
+                {
+                    "text": "Італія",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "q8",
+            "question": "Столицею якої країни є Токіо?",
+            "answers": [
+                {
+                    "text": "Японія",
+                    "correct": true
+                },
+                {
+                    "text": "Китай",
+                    "correct": false
+                },
+                {
+                    "text": "Південна Корея",
+                    "correct": false
+                },
+                {
+                    "text": "Таїланд",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "q9",
+            "question": "Яке море омиває береги України на півдні?",
+            "answers": [
+                {
+                    "text": "Чорне море",
+                    "correct": true
+                },
+                {
+                    "text": "Середземне море",
+                    "correct": false
+                },
+                {
+                    "text": "Каспійське море",
+                    "correct": false
+                },
+                {
+                    "text": "Червоне море",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "q10",
+            "question": "Який материк є найменшим?",
+            "answers": [
+                {
+                    "text": "Австралія",
+                    "correct": true
+                },
+                {
+                    "text": "Європа",
+                    "correct": false
+                },
+                {
+                    "text": "Антарктида",
+                    "correct": false
+                },
+                {
+                    "text": "Південна Америка",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "q11",
+            "question": "Через яку країну протікає річка Амазонка?",
+            "answers": [
+                {
+                    "text": "Бразилія",
+                    "correct": true
+                },
+                {
+                    "text": "Аргентина",
+                    "correct": false
+                },
+                {
+                    "text": "Чилі",
+                    "correct": false
+                },
+                {
+                    "text": "Єгипет",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "q12",
+            "question": "Яка валюта використовується в більшості країн Європейського Союзу?",
+            "answers": [
+                {
+                    "text": "Євро",
+                    "correct": true
+                },
+                {
+                    "text": "Долар",
+                    "correct": false
+                },
+                {
+                    "text": "Фунт",
+                    "correct": false
+                },
+                {
+                    "text": "Франк",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "q13",
+            "question": "Як називається лінія, що ділить Землю на Північну та Південну півкулі?",
+            "answers": [
+                {
+                    "text": "Екватор",
+                    "correct": true
+                },
+                {
+                    "text": "Меридіан",
+                    "correct": false
+                },
+                {
+                    "text": "Тропік",
+                    "correct": false
+                },
+                {
+                    "text": "Паралель",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "q14",
+            "question": "Яка країна має найбільшу кількість населення?",
+            "answers": [
+                {
+                    "text": "Індія",
+                    "correct": true
+                },
+                {
+                    "text": "Китай",
+                    "correct": false
+                },
+                {
+                    "text": "США",
+                    "correct": false
+                },
+                {
+                    "text": "Індонезія",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "q15",
+            "question": "Острів Гренландія належить до якої країни?",
+            "answers": [
+                {
+                    "text": "Данія",
+                    "correct": true
+                },
+                {
+                    "text": "Норвегія",
+                    "correct": false
+                },
+                {
+                    "text": "Канада",
+                    "correct": false
+                },
+                {
+                    "text": "Ісландія",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "q16",
+            "question": "Яке озеро є найглибшим у світі?",
+            "answers": [
+                {
+                    "text": "Байкал",
+                    "correct": true
+                },
+                {
+                    "text": "Вікторія",
+                    "correct": false
+                },
+                {
+                    "text": "Верхнє",
+                    "correct": false
+                },
+                {
+                    "text": "Танганьїка",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "q17",
+            "question": "Яка країна займає цілий континент?",
+            "answers": [
+                {
+                    "text": "Австралія",
+                    "correct": true
+                },
+                {
+                    "text": "Росія",
+                    "correct": false
+                },
+                {
+                    "text": "Бразилія",
+                    "correct": false
+                },
+                {
+                    "text": "Канада",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "q18",
+            "question": "Як називається найбільший острів у світі?",
+            "answers": [
+                {
+                    "text": "Гренландія",
+                    "correct": true
+                },
+                {
+                    "text": "Мадагаскар",
+                    "correct": false
+                },
+                {
+                    "text": "Нова Гвінея",
+                    "correct": false
+                },
+                {
+                    "text": "Борнео",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "q19",
+            "question": "Яка столиця Італії?",
+            "answers": [
+                {
+                    "text": "Рим",
+                    "correct": true
+                },
+                {
+                    "text": "Мілан",
+                    "correct": false
+                },
+                {
+                    "text": "Венеція",
+                    "correct": false
+                },
+                {
+                    "text": "Флоренція",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "q20",
+            "question": "У яких горах знаходиться країна Швейцарія?",
+            "answers": [
+                {
+                    "text": "Альпи",
+                    "correct": true
+                },
+                {
+                    "text": "Піренеї",
+                    "correct": false
+                },
+                {
+                    "text": "Карпати",
+                    "correct": false
+                },
+                {
+                    "text": "Анди",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "q21",
+            "question": "Який канал з'єднує Атлантичний і Тихий океани?",
+            "answers": [
+                {
+                    "text": "Панамський",
+                    "correct": true
+                },
+                {
+                    "text": "Суецький",
+                    "correct": false
+                },
+                {
+                    "text": "Кільський",
+                    "correct": false
+                },
+                {
+                    "text": "Коринфський",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "q22",
+            "question": "Яке місто є столицею Великобританії?",
+            "answers": [
+                {
+                    "text": "Лондон",
+                    "correct": true
+                },
+                {
+                    "text": "Единбург",
+                    "correct": false
+                },
+                {
+                    "text": "Дублін",
+                    "correct": false
+                },
+                {
+                    "text": "Манчестер",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "q23",
+            "question": "В якій частині світу розташована країна Чилі?",
+            "answers": [
+                {
+                    "text": "Південна Америка",
+                    "correct": true
+                },
+                {
+                    "text": "Північна Америка",
+                    "correct": false
+                },
+                {
+                    "text": "Африка",
+                    "correct": false
+                },
+                {
+                    "text": "Океанія",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "q24",
+            "question": "Яка найменша за площею держава у світі?",
+            "answers": [
+                {
+                    "text": "Ватикан",
+                    "correct": true
+                },
+                {
+                    "text": "Монако",
+                    "correct": false
+                },
+                {
+                    "text": "Сан-Марино",
+                    "correct": false
+                },
+                {
+                    "text": "Ліхтенштейн",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "q25",
+            "question": "Яке місто називають 'Містом на семи пагорбах'?",
+            "answers": [
+                {
+                    "text": "Рим",
+                    "correct": true
+                },
+                {
+                    "text": "Афіни",
+                    "correct": false
+                },
+                {
+                    "text": "Київ",
+                    "correct": false
+                },
+                {
+                    "text": "Стамбул",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "q26",
+            "question": "Яке море є найтеплішим і найсолонішим серед відкритих морів?",
+            "answers": [
+                {
+                    "text": "Червоне море",
+                    "correct": true
+                },
+                {
+                    "text": "Мертве море",
+                    "correct": false
+                },
+                {
+                    "text": "Аравійське море",
+                    "correct": false
+                },
+                {
+                    "text": "Японське море",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "q27",
+            "question": "Як називається столиця Австралії?",
+            "answers": [
+                {
+                    "text": "Канберра",
+                    "correct": true
+                },
+                {
+                    "text": "Сідней",
+                    "correct": false
+                },
+                {
+                    "text": "Мельбурн",
+                    "correct": false
+                },
+                {
+                    "text": "Перт",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "q28",
+            "question": "На якому континенті розташована річка Конго?",
+            "answers": [
+                {
+                    "text": "Африка",
+                    "correct": true
+                },
+                {
+                    "text": "Південна Америка",
+                    "correct": false
+                },
+                {
+                    "text": "Азія",
+                    "correct": false
+                },
+                {
+                    "text": "Австралія",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "q29",
+            "question": "Яка країна відома як 'Країна ранкової свіжості'?",
+            "answers": [
+                {
+                    "text": "Корея",
+                    "correct": true
+                },
+                {
+                    "text": "Японія",
+                    "correct": false
+                },
+                {
+                    "text": "Китай",
+                    "correct": false
+                },
+                {
+                    "text": "В'єтнам",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "q30",
+            "question": "Яке місто є столицею України?",
+            "answers": [
+                {
+                    "text": "Київ",
+                    "correct": true
+                },
+                {
+                    "text": "Львів",
+                    "correct": false
+                },
+                {
+                    "text": "Одеса",
+                    "correct": false
+                },
+                {
+                    "text": "Харків",
+                    "correct": false
+                }
+            ]
+        }
+    ]
+}

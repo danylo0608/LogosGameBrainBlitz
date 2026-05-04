@@ -1,0 +1,446 @@
+{
+    "id": "simple_math",
+    "name": "Проста математика",
+    "questions": [
+        {
+            "id": "q1",
+            "question": "Скільки буде 2 + 2?",
+            "answers": [
+                {
+                    "text": "4",
+                    "correct": true
+                },
+                {
+                    "text": "3",
+                    "correct": false
+                },
+                {
+                    "text": "5",
+                    "correct": false
+                },
+                {
+                    "text": "22",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "q2",
+            "question": "Обчисліть: 10 - 4",
+            "answers": [
+                {
+                    "text": "6",
+                    "correct": true
+                },
+                {
+                    "text": "5",
+                    "correct": false
+                },
+                {
+                    "text": "7",
+                    "correct": false
+                },
+                {
+                    "text": "4",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "q3",
+            "question": "Скільки буде 3 * 3?",
+            "answers": [
+                {
+                    "text": "9",
+                    "correct": true
+                },
+                {
+                    "text": "6",
+                    "correct": false
+                },
+                {
+                    "text": "8",
+                    "correct": false
+                },
+                {
+                    "text": "12",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "q4",
+            "question": "Знайдіть частку: 15 / 3",
+            "answers": [
+                {
+                    "text": "5",
+                    "correct": true
+                },
+                {
+                    "text": "3",
+                    "correct": false
+                },
+                {
+                    "text": "4",
+                    "correct": false
+                },
+                {
+                    "text": "6",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "q5",
+            "question": "Скільки буде 8 + 7?",
+            "answers": [
+                {
+                    "text": "15",
+                    "correct": true
+                },
+                {
+                    "text": "14",
+                    "correct": false
+                },
+                {
+                    "text": "16",
+                    "correct": false
+                },
+                {
+                    "text": "13",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "q6",
+            "question": "Обчисліть: 20 - 9",
+            "answers": [
+                {
+                    "text": "11",
+                    "correct": true
+                },
+                {
+                    "text": "10",
+                    "correct": false
+                },
+                {
+                    "text": "12",
+                    "correct": false
+                },
+                {
+                    "text": "9",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "q7",
+            "question": "Скільки буде 4 * 5?",
+            "answers": [
+                {
+                    "text": "20",
+                    "correct": true
+                },
+                {
+                    "text": "16",
+                    "correct": false
+                },
+                {
+                    "text": "25",
+                    "correct": false
+                },
+                {
+                    "text": "24",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "q8",
+            "question": "Знайдіть частку: 18 / 2",
+            "answers": [
+                {
+                    "text": "9",
+                    "correct": true
+                },
+                {
+                    "text": "8",
+                    "correct": false
+                },
+                {
+                    "text": "7",
+                    "correct": false
+                },
+                {
+                    "text": "10",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "q9",
+            "question": "Скільки буде 12 + 13?",
+            "answers": [
+                {
+                    "text": "25",
+                    "correct": true
+                },
+                {
+                    "text": "24",
+                    "correct": false
+                },
+                {
+                    "text": "26",
+                    "correct": false
+                },
+                {
+                    "text": "23",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "q10",
+            "question": "Обчисліть: 30 - 15",
+            "answers": [
+                {
+                    "text": "15",
+                    "correct": true
+                },
+                {
+                    "text": "10",
+                    "correct": false
+                },
+                {
+                    "text": "20",
+                    "correct": false
+                },
+                {
+                    "text": "5",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "q11",
+            "question": "Скільки буде 6 * 6?",
+            "answers": [
+                {
+                    "text": "36",
+                    "correct": true
+                },
+                {
+                    "text": "30",
+                    "correct": false
+                },
+                {
+                    "text": "42",
+                    "correct": false
+                },
+                {
+                    "text": "32",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "q12",
+            "question": "Знайдіть частку: 24 / 4",
+            "answers": [
+                {
+                    "text": "6",
+                    "correct": true
+                },
+                {
+                    "text": "8",
+                    "correct": false
+                },
+                {
+                    "text": "4",
+                    "correct": false
+                },
+                {
+                    "text": "12",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "q13",
+            "question": "Скільки буде 45 + 55?",
+            "answers": [
+                {
+                    "text": "100",
+                    "correct": true
+                },
+                {
+                    "text": "90",
+                    "correct": false
+                },
+                {
+                    "text": "110",
+                    "correct": false
+                },
+                {
+                    "text": "95",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "q14",
+            "question": "Обчисліть: 100 - 37",
+            "answers": [
+                {
+                    "text": "63",
+                    "correct": true
+                },
+                {
+                    "text": "73",
+                    "correct": false
+                },
+                {
+                    "text": "53",
+                    "correct": false
+                },
+                {
+                    "text": "67",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "q15",
+            "question": "Скільки буде 7 * 8?",
+            "answers": [
+                {
+                    "text": "56",
+                    "correct": true
+                },
+                {
+                    "text": "49",
+                    "correct": false
+                },
+                {
+                    "text": "64",
+                    "correct": false
+                },
+                {
+                    "text": "54",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "q16",
+            "question": "Знайдіть частку: 49 / 7",
+            "answers": [
+                {
+                    "text": "7",
+                    "correct": true
+                },
+                {
+                    "text": "6",
+                    "correct": false
+                },
+                {
+                    "text": "8",
+                    "correct": false
+                },
+                {
+                    "text": "9",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "q17",
+            "question": "Скільки буде 9 * 9?",
+            "answers": [
+                {
+                    "text": "81",
+                    "correct": true
+                },
+                {
+                    "text": "72",
+                    "correct": false
+                },
+                {
+                    "text": "90",
+                    "correct": false
+                },
+                {
+                    "text": "89",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "q18",
+            "question": "Знайдіть частку: 64 / 8",
+            "answers": [
+                {
+                    "text": "8",
+                    "correct": true
+                },
+                {
+                    "text": "6",
+                    "correct": false
+                },
+                {
+                    "text": "7",
+                    "correct": false
+                },
+                {
+                    "text": "9",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "q19",
+            "question": "Скільки буде 12 * 3?",
+            "answers": [
+                {
+                    "text": "36",
+                    "correct": true
+                },
+                {
+                    "text": "24",
+                    "correct": false
+                },
+                {
+                    "text": "48",
+                    "correct": false
+                },
+                {
+                    "text": "30",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "q20",
+            "question": "Обчисліть: 150 - 75",
+            "answers": [
+                {
+                    "text": "75",
+                    "correct": true
+                },
+                {
+                    "text": "50",
+                    "correct": false
+                },
+                {
+                    "text": "100",
+                    "correct": false
+                },
+                {
+                    "text": "85",
+                    "correct": false
+                }
+            ]
+        }
+    ]
+}

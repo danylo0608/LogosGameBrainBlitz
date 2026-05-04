@@ -1,0 +1,11 @@
+{
+    "version": 1,
+    "groups": [
+        {
+            "file": "simple_math.json"
+        },
+        {
+            "file": "geography.json"
+        }
+    ]
+}
