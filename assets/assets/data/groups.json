@@ -6,6 +6,9 @@
         },
         {
             "file": "geography.json"
+        },
+        {
+            "file" : "biology.json"
         }
     ]
 }
